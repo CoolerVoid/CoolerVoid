@@ -1,4 +1,4 @@
-[![CoolerVoid's github stats](https://github-readme-stats.vercel.app/api?username=CoolerVoid)](https://github.com/anuraghazra/github-readme-stats)
+[![CoolerVoid's github stats](https://github-readme-stats.vercel.app/api?username=CoolerVoid&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 - 🔭 I’m currently working in OctopusWAF.
 - 🌱 I’m currently learning Rust language.
