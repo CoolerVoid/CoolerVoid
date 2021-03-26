@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working in OctopusWAF.
 - 🌱 I’m currently learning Rust language.
-- 👯 I’m looking to collaborate on open source projects
+- 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about my projects...
 - 📫 How to reach me: coolerlair[ at]gmail[dot ]com
-- ⚡ Fun fact: I love comics
--->
+- ⚡ Fun fact: I love comics!
